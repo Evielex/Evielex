@@ -1,4 +1,4 @@
-## Hola, soy 🎧EviDev🎧 👋
+## Hola, soy 🎧EviDev🎧 
 ![Banner](Banner.png)
 
 ---
