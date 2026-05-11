@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hola, soy EviDev 👋
+### Ingeniero en Inteligencia Artificial
 
-<!--
-**Evielex/Evielex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Descripcion
+Estudiante apasionado por AI Classical Planning 📡 y los modelos supervisados, estudiando los modelos no supervisados y por refuerzo. Una parte en la que me encanta enfocarme es a la IA aplicada en sistemas empotrados y ubicuos 🤖⚡. Con poca experiencia en programacion de base de datos. Ultimamtente me llama mucho la atencion los automatas que funcionan con Vision Artificial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Softwares Utilizados
+- Arduino-ide
+- DesignSpark
+
+---
+
+ ## 📟 Lenguajes Utilizados 📟
+ - C++
+ - Python
+ - C
+
+  ## Librerias mas utilizadas
+  - NumPy
+  - SKLearn
+  - Pandas
+  - Yolo (Aprendiendo)
+  - PyTorch (Aprendiendo)
